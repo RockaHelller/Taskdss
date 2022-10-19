@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Poly_Abstract_Interface\Poly_Abstract_Interface\bin\Debug\netcoreapp3.1\Poly_Abstract_Interface.exe
+C:\Users\User\source\repos\Poly_Abstract_Interface\Poly_Abstract_Interface\bin\Debug\netcoreapp3.1\Poly_Abstract_Interface.deps.json
+C:\Users\User\source\repos\Poly_Abstract_Interface\Poly_Abstract_Interface\bin\Debug\netcoreapp3.1\Poly_Abstract_Interface.runtimeconfig.json
+C:\Users\User\source\repos\Poly_Abstract_Interface\Poly_Abstract_Interface\bin\Debug\netcoreapp3.1\Poly_Abstract_Interface.runtimeconfig.dev.json
+C:\Users\User\source\repos\Poly_Abstract_Interface\Poly_Abstract_Interface\bin\Debug\netcoreapp3.1\Poly_Abstract_Interface.dll
+C:\Users\User\source\repos\Poly_Abstract_Interface\Poly_Abstract_Interface\bin\Debug\netcoreapp3.1\Poly_Abstract_Interface.pdb
+C:\Users\User\source\repos\Poly_Abstract_Interface\Poly_Abstract_Interface\obj\Debug\netcoreapp3.1\Poly_Abstract_Interface.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Poly_Abstract_Interface\Poly_Abstract_Interface\obj\Debug\netcoreapp3.1\Poly_Abstract_Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Poly_Abstract_Interface\Poly_Abstract_Interface\obj\Debug\netcoreapp3.1\Poly_Abstract_Interface.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Poly_Abstract_Interface\Poly_Abstract_Interface\obj\Debug\netcoreapp3.1\Poly_Abstract_Interface.AssemblyInfo.cs
+C:\Users\User\source\repos\Poly_Abstract_Interface\Poly_Abstract_Interface\obj\Debug\netcoreapp3.1\Poly_Abstract_Interface.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Poly_Abstract_Interface\Poly_Abstract_Interface\obj\Debug\netcoreapp3.1\Poly_Abstract_Interface.dll
+C:\Users\User\source\repos\Poly_Abstract_Interface\Poly_Abstract_Interface\obj\Debug\netcoreapp3.1\Poly_Abstract_Interface.pdb
+C:\Users\User\source\repos\Poly_Abstract_Interface\Poly_Abstract_Interface\obj\Debug\netcoreapp3.1\Poly_Abstract_Interface.genruntimeconfig.cache
